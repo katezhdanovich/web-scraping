@@ -1,0 +1,6108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39934,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "234Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8818015965731,
+                    43.2500970804572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39937,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "20/18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.944785849825,
+                    43.2400806983878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39939,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9433198441971,
+                    43.2596200560517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39946,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Пушкина улица",
+                "house_number": "44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9532482942117,
+                    43.2610239492663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39947,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9440079087889,
+                    43.2594273673023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39955,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9318535233317,
+                    43.258461360347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39960,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Северное Кольцо шоссе",
+                "house_number": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.888716108978,
+                    43.2801844613088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39984,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9578175749044,
+                    43.2553944252891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39987,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9373550307105,
+                    43.2622890429326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39990,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "88"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9428362810797,
+                    43.2637200531582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 39997,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9535618960774,
+                    43.2630643861167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40003,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9328539770637,
+                    43.2593437563844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40004,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.933564813948,
+                    43.2614515763011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40005,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9346526737571,
+                    43.2615680628649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40006,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9345066076919,
+                    43.2630404893534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40007,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9325320208658,
+                    43.262919469171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40010,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "71/73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9386429902491,
+                    43.2601777003578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40011,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Чайковского улица",
+                "house_number": "37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.936684797677,
+                    43.2629063127907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40012,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9354746771578,
+                    43.2626795682974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40013,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.935993723729,
+                    43.2617310635818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40014,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9321054109374,
+                    43.2623246324798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40015,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "2 блок В"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9547466391899,
+                    43.262104017653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40020,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9329854455055,
+                    43.2563075085784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40021,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9387850138955,
+                    43.2569563943077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40022,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9391287811885,
+                    43.2564731891775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40023,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Казыбек би улица",
+                "house_number": "66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9375258453618,
+                    43.2555663722188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40025,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9411185225933,
+                    43.2606169802387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40027,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Валиханова улица",
+                "house_number": "67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9515592368988,
+                    43.2556593840895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40030,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тулебаева улица",
+                "house_number": "65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9473314507614,
+                    43.2582245538614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40033,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "17 киоск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9551103670484,
+                    43.2553210581404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40034,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9051059162525,
+                    43.233779341791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40035,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9482396924294,
+                    43.2398458033248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40039,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9375955097121,
+                    43.2666156092965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40067,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9478791086743,
+                    43.267787520661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40070,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9491202659866,
+                    43.2682202857915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40074,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9481872308168,
+                    43.2456652789118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40075,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9488935761247,
+                    43.2619603129603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40080,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9508861292564,
+                    43.2459065606795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40082,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9428686204299,
+                    43.2687371710196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40083,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9401598405221,
+                    43.2685871802306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40084,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9401386851972,
+                    43.2678711264649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40086,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "33/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9387183589015,
+                    43.2689047081049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40087,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Маметовой улица",
+                "house_number": "47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9395926891675,
+                    43.2672179136566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40088,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тулебаева улица",
+                "house_number": "38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9474785319228,
+                    43.2651217898056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40089,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9456630097842,
+                    43.2660205529532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40090,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9381409667526,
+                    43.2690413133072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40091,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9353145075426,
+                    43.2587596125545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40092,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Айтеке би улица",
+                "house_number": "81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9379582943396,
+                    43.2579915938867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40093,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "77/79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9385925049302,
+                    43.258811066443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40094,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.948195001244,
+                    43.2644970126448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40095,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9484188614128,
+                    43.2659428988007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40099,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9394848913334,
+                    43.2624540506291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40105,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "91/97"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9457515387554,
+                    43.2594109865309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40111,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Мауленова улица",
+                "house_number": "32/36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9341635860006,
+                    43.2605312963253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40112,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9503322280522,
+                    43.2652738964967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40114,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Валиханова улица",
+                "house_number": "36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9508813232696,
+                    43.2652672791743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40115,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Маметовой улица",
+                "house_number": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9509499545573,
+                    43.267561352465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40150,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9382017377816,
+                    43.2728477938497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40202,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9574855126596,
+                    43.2411150704012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40205,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кармысова улица",
+                "house_number": "94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9602822376337,
+                    43.2426338016463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40211,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Габдуллина улица",
+                "house_number": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9064446306047,
+                    43.2283987031171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40225,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "175а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9046728833698,
+                    43.2279689702207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40227,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сатпаева улица",
+                "house_number": "32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9054148917945,
+                    43.2354662744579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40229,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Уйгурская улица",
+                "house_number": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8888161363848,
+                    43.2900484495544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40256,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Прокофьева улица",
+                "house_number": "107а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8763599169922,
+                    43.2495833190918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40262,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тимирязева улица",
+                "house_number": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9080516717322,
+                    43.2265237525576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40265,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "264а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8774707287568,
+                    43.2498317361272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40268,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тимирязева улица",
+                "house_number": "83"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9033857323149,
+                    43.2261514067448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40270,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8771183196708,
+                    43.2497496878973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40271,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тимирязева улица",
+                "house_number": "81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9041594063534,
+                    43.2260048378977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40278,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9048944079189,
+                    43.2303759474899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40293,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9232565562312,
+                    43.2405320771055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40302,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "86"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.936756438321,
+                    43.2588881257318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40303,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9057371624027,
+                    43.2289016351861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40314,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Биянху улица",
+                "house_number": "18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8878986869852,
+                    43.2898940166071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40315,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Дунганская улица",
+                "house_number": "5/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8861294550331,
+                    43.2841640021476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40347,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9558355320616,
+                    43.2552042312449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40350,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Калдаякова улица",
+                "house_number": "38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9586384823605,
+                    43.2585968927089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40354,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Есенова улица",
+                "house_number": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9543910410847,
+                    43.2678049232291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40356,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Есенова улица",
+                "house_number": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9544630410547,
+                    43.2667488388815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40363,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9531579236942,
+                    43.2651034936491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40399,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9580545325101,
+                    43.2635059230751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40407,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9567273345598,
+                    43.2610512476327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40409,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ришата и Муслима Абдуллиных улица",
+                "house_number": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9594769428972,
+                    43.2643936877845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40506,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Орбита 2-й микрорайон",
+                "house_number": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.886368541646,
+                    43.195787124945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40518,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Орбита 2-й микрорайон",
+                "house_number": "28Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8820951210921,
+                    43.1957642926116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40665,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9370496035139,
+                    43.2548013004907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40667,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9401303757808,
+                    43.2537225921324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40686,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9341621037804,
+                    43.2595185546098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40710,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "48/2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9566447344695,
+                    43.2467132472545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40746,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Аль-Фараби проспект",
+                "house_number": "7 к3а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9465123668853,
+                    43.2297152419916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40768,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Карасай батыра улица",
+                "house_number": "69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9399427177179,
+                    43.2512715249096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40771,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9300910736601,
+                    43.2432105621172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40772,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Васнецова улица",
+                "house_number": "29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8790227480732,
+                    43.2495476826451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40773,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Суюнбая проспект",
+                "house_number": "2 к3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9496535957708,
+                    43.2711803818387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40779,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Байтурсынова улица",
+                "house_number": "78Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.927573410329,
+                    43.2419789829725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40790,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Казыбек би улица",
+                "house_number": "68-70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9366543447889,
+                    43.2557600056225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40846,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "177Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94135841769,
+                    43.2372914067586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40847,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "152 к А"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9383580895568,
+                    43.2409951687694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40855,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9567024063107,
+                    43.2523359560932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40880,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9469787991303,
+                    43.2621700564395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40881,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9416344699768,
+                    43.2623422860954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40897,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Айтеке би улица",
+                "house_number": "95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9328150800119,
+                    43.2579884686636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40898,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9321068482419,
+                    43.2562379375615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40901,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Валиханова улица",
+                "house_number": "47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9506956415004,
+                    43.262083350564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40902,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9319537304017,
+                    43.2434678381743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40910,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Масанчи улица",
+                "house_number": "90"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9309959466458,
+                    43.2430232455983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40915,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "95а киоск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9219743908262,
+                    43.2409011689287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40917,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Шагабутдинова улица",
+                "house_number": "171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9217760877272,
+                    43.2417141349827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40923,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "88"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9577082948501,
+                    43.2538276883663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40938,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Шевченко улица",
+                "house_number": "77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9378933012288,
+                    43.2460328224631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40939,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "9а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9580470944595,
+                    43.2456809673125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40940,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9576826479487,
+                    43.2449754121086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40942,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9418438672695,
+                    43.2491035944165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40945,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9576826479487,
+                    43.2449754121086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40948,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9543435651219,
+                    43.2535918617751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40951,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9551855560377,
+                    43.2524728745204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40952,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9396698993662,
+                    43.2444136019816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40954,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9418559046943,
+                    43.2458659574816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40959,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Пушкина улица",
+                "house_number": "60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9541789039303,
+                    43.2531362534372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40970,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Карасай батыра улица",
+                "house_number": "55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.946181921608,
+                    43.2518013395898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40971,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9458455474499,
+                    43.2546813012354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40972,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9454886018717,
+                    43.2527642355342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40974,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9463464480523,
+                    43.2546435404224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40983,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9472532973316,
+                    43.2528604691297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 40984,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.950970975135,
+                    43.2525969754551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41017,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "83"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9316648322063,
+                    43.2544575659404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41021,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9351362817903,
+                    43.2522052096056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41057,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Мауленова улица",
+                "house_number": "123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9353325457136,
+                    43.2446708663548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41099,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Брусиловского улица",
+                "house_number": "21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8759600319435,
+                    43.2510368177617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41138,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тургут Озала улица",
+                "house_number": "116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8814933845991,
+                    43.2477017293269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41264,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Пушкина улица",
+                "house_number": "62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9542598870532,
+                    43.2524990670617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41353,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9529697715579,
+                    43.2534956950044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41433,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9407556481343,
+                    43.2632601882244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41434,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "91"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9408410779178,
+                    43.2565943732768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41436,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9361882988195,
+                    43.2571520586224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41437,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Молдагуловой улица",
+                "house_number": "32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9419593007835,
+                    43.2648446224642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41441,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9451214154994,
+                    43.2601997336921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41442,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Молдагуловой улица",
+                "house_number": "43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9431879535471,
+                    43.2659022762319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41463,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9354696465922,
+                    43.2580208239063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41464,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Мауленова улица",
+                "house_number": "38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.934228085038,
+                    43.2600305573959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41470,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "106г"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9574739243925,
+                    43.2417739570524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41477,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9554490319105,
+                    43.245501262973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41487,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Республики площадь",
+                "house_number": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9468199500386,
+                    43.2392399096094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41552,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Прокофьева улица",
+                "house_number": "92а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8749538289937,
+                    43.2493145250761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41559,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Туркебаева улица",
+                "house_number": "97"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8787116165745,
+                    43.248848627503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41560,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8783349978916,
+                    43.2499158001527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41565,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тургут Озала улица",
+                "house_number": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8796511645302,
+                    43.2513098065676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41607,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "84"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9447252584591,
+                    43.2592730727337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41608,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9400531206664,
+                    43.2581863159743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41609,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "92"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9449037087903,
+                    43.258821715692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41610,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Северное Кольцо шоссе",
+                "house_number": "50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8902746410802,
+                    43.2938429570603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41614,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "498/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9333774702955,
+                    43.2518765889591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41615,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Карасай батыра улица",
+                "house_number": "79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9340407413855,
+                    43.2508693033828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41616,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9336356910239,
+                    43.2515862611424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41618,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.934327708203,
+                    43.2521765611687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41619,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9358531194207,
+                    43.2537898088313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41620,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9369675424127,
+                    43.2518581312036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41624,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9397971008104,
+                    43.2711786882848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41625,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Райымбека проспект",
+                "house_number": "101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9462918753988,
+                    43.2709115262903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41628,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9390170038177,
+                    43.2738134527565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41632,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гайдара улица",
+                "house_number": "87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8828264844807,
+                    43.2498107299524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41640,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9407485065278,
+                    43.2411884613524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41650,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9495179950787,
+                    43.2303544484823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41664,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Шевченко улица",
+                "house_number": "112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9278729984763,
+                    43.2448862649119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41666,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9410206511431,
+                    43.2542258718221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41667,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9370344669014,
+                    43.2427207718348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41668,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Мауленова улица",
+                "house_number": "133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9355526060087,
+                    43.2427750173169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41670,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9409051727134,
+                    43.2537117778338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41671,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9277743185423,
+                    43.2415789128506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41673,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9299638722158,
+                    43.2437263214915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41692,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9420488628173,
+                    43.2425285152098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41694,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.937120256011,
+                    43.2504816763119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41695,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Рыскулова проспект",
+                "house_number": "99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8909558605096,
+                    43.2751866262816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41696,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Мауленова улица",
+                "house_number": "85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9344488909349,
+                    43.2517648180035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41709,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9557692813093,
+                    43.2618234291467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41719,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Аль-Фараби проспект",
+                "house_number": "19 киоск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9461221387259,
+                    43.2296622000037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41733,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8773156795388,
+                    43.2498317952256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41735,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Карасай батыра улица",
+                "house_number": "298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8751620584766,
+                    43.2464492539825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41738,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9559711776694,
+                    43.254714551217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41749,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "55/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9539302053439,
+                    43.2630997716912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41751,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Байсеитовой улица",
+                "house_number": "49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9446681705228,
+                    43.2396009902877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41758,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9423822276193,
+                    43.2594132384769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41762,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Шевченко улица",
+                "house_number": "59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.943644450425,
+                    43.2467752051612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41764,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Калдаякова улица",
+                "house_number": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9566320233082,
+                    43.2619903223152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41824,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9583919576971,
+                    43.2543782226072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41944,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9561986760151,
+                    43.2459947016372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41953,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Пушкина улица",
+                "house_number": "36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9530849804931,
+                    43.263575866498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41956,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Аль-Фараби проспект",
+                "house_number": "21 блок 6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9434764205511,
+                    43.2294473909722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41959,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9458071265052,
+                    43.2648370006726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41971,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Туркебаева улица",
+                "house_number": "63а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8777022246055,
+                    43.2511423914399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41989,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Калдаякова улица",
+                "house_number": "17/2 киоск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9576088962639,
+                    43.2625752686961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41991,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9495641684843,
+                    43.2626839406441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 41999,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "83а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9492839390314,
+                    43.2575130783359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42000,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9550384119942,
+                    43.2551580270089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42001,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "48в"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9202899149212,
+                    43.240147483657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42051,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "97"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9492934162576,
+                    43.2549189423399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42073,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9392353842632,
+                    43.2694073559603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42079,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9431246402858,
+                    43.2610613975273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42082,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "81а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9438041259668,
+                    43.2622092174911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42083,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9457442174858,
+                    43.2552888327708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42084,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "24Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9541596799832,
+                    43.2553241769354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42086,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9420088698209,
+                    43.2613765423696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42087,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Муратбаева улица",
+                "house_number": "232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9208354617932,
+                    43.2415308593373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42094,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9362390536331,
+                    43.2595940175997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42095,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9475359971515,
+                    43.2521325871376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42096,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9442413360155,
+                    43.252044021753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42098,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9325320208658,
+                    43.262919469171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42102,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9346526737571,
+                    43.2615680628649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42103,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Маметовой улица",
+                "house_number": "34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9427764083659,
+                    43.2669928790078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42119,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9445325698306,
+                    43.2642086361223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42121,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9421533818007,
+                    43.2641803150538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42122,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Молдагуловой улица",
+                "house_number": "39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9447255279537,
+                    43.2655202796388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42123,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Маметовой улица",
+                "house_number": "25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9441903117074,
+                    43.2675317200557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42143,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тимирязева улица",
+                "house_number": "75/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9059564860793,
+                    43.2262028949459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42149,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тургут Озала улица",
+                "house_number": "103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8803463707285,
+                    43.2489601871514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42156,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "519/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9317589307323,
+                    43.2579493902306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42160,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Луганского улица",
+                "house_number": "1/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9593937589019,
+                    43.2409093454036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42165,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9320750478808,
+                    43.2526463465445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42193,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9052503653502,
+                    43.2278100103165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42227,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.947059890051,
+                    43.244954384546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42240,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9334450056386,
+                    43.2546533827927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42253,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тулебаева улица",
+                "house_number": "19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9466658889673,
+                    43.2660662105811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42272,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9489217383088,
+                    43.2670570874917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42274,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Айтеке би улица",
+                "house_number": "100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9333739668659,
+                    43.2572683105408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42281,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "78"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9387889485165,
+                    43.2592105170431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42289,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9355775791736,
+                    43.2420801460872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42290,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Мауленова улица",
+                "house_number": "108а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9363109637715,
+                    43.2449374219565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42291,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Шевченко улица",
+                "house_number": "94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9351709118445,
+                    43.245433912289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42297,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "88"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9361660475499,
+                    43.2435932972882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42301,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "89"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9365163905107,
+                    43.2482147449443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42303,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жандосова улица",
+                "house_number": "34а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9044262059928,
+                    43.2328606965483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42305,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "260/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88062534254,
+                    43.2502502952812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42388,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9483975713406,
+                    43.2326778998446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42465,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Суюнбая проспект",
+                "house_number": "2 к3/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9484942300651,
+                    43.2710824641537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42472,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "92"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9430301375179,
+                    43.2507222756609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42473,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "78/86"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9392153967482,
+                    43.260599976085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42474,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9464369802667,
+                    43.252108456235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42476,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "127/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.933692239971,
+                    43.260321330504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42478,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9395841102565,
+                    43.2614007352259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42481,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Шевченко улица",
+                "house_number": "112/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9270058098168,
+                    43.2450063098725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42482,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "90"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.942451802138,
+                    43.2514094569585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42485,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9388794717477,
+                    43.2548326988121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42486,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "92"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9350651352198,
+                    43.259047332262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42498,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Айтеке би улица",
+                "house_number": "100а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9327088991453,
+                    43.2572447529014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42502,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.936836433297,
+                    43.2410415874169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42509,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9436347037041,
+                    43.2625776255658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42512,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Карасай батыра улица",
+                "house_number": "75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9357169527899,
+                    43.2512033926913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42513,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9383612336603,
+                    43.252238973114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42520,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "122-124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9374809745133,
+                    43.246801649709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42521,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "82а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9370247650963,
+                    43.2539590682509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42543,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9377813262286,
+                    43.2719967808541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42544,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "3а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.937004822497,
+                    43.2728125715176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42626,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кабанбай батыра улица",
+                "house_number": "110а киоск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9440616729587,
+                    43.2495552013001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42627,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9569176875686,
+                    43.2461603842252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42628,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Валиханова улица",
+                "house_number": "4/3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9504914544363,
+                    43.2698340309428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42629,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "47/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9545325706577,
+                    43.2648827970563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42631,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "8г/7а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9513731329214,
+                    43.2396856858855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42649,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9485190056006,
+                    43.2649214245983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42650,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "36/3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9491335161371,
+                    43.2649436991028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42651,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Пушкина улица",
+                "house_number": "29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9519504981208,
+                    43.2656869000104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42665,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9556460324524,
+                    43.265072238523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42674,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "92/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9326903040189,
+                    43.2536082966517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42697,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Макатаева улица",
+                "house_number": "49/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9536623277262,
+                    43.2652410330808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42698,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жангельдина улица",
+                "house_number": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9582015148568,
+                    43.2655822314062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42700,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Есенова улица",
+                "house_number": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9543101028776,
+                    43.2654061705799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42703,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "65/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9385077039673,
+                    43.2545308684772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42706,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9494349009149,
+                    43.2630312654628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42713,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9478466794926,
+                    43.2604408983848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42719,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Есенова улица",
+                "house_number": "9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9543357497789,
+                    43.2659899219502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42720,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Пушкина улица",
+                "house_number": "26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9528822576829,
+                    43.2672902554223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42723,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "39/2 киоск"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9579143683763,
+                    43.2633899129261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42725,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Айтеке би улица",
+                "house_number": "55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9472470989562,
+                    43.2588596117711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42732,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Орбита 2-й микрорайон",
+                "house_number": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8859295798824,
+                    43.1952204677895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42739,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9494425635443,
+                    43.2578986775222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42748,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Самал 2-й микрорайон",
+                "house_number": "58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9512036837093,
+                    43.2292089732057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42753,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9263195867712,
+                    43.2429972985075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42764,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тимирязева улица",
+                "house_number": "42а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9045659389352,
+                    43.2255490414628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42765,
+                "organization": "QIWI, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Тимирязева улица",
+                "house_number": "42 к10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9054615862229,
+                    43.2248830082106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42766,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "91/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9221907051466,
+                    43.2413020053519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42802,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9334450056386,
+                    43.2546533827927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42844,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Северное Кольцо шоссе",
+                "house_number": "19а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8921253951443,
+                    43.2906308013988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42850,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9471679124639,
+                    43.2670676171251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42853,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9471679124639,
+                    43.2670676171251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42881,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9475359971515,
+                    43.2521325871376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42886,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9418559046943,
+                    43.2458659574816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42891,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9493456982072,
+                    43.258971159517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42899,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Райымбека проспект",
+                "house_number": "101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9462918753988,
+                    43.2709115262903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42912,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9407556481343,
+                    43.2632601882244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42915,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9463464480523,
+                    43.2546435404224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42926,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Курмангазы улица",
+                "house_number": "15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9554490319105,
+                    43.245501262973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42928,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "84"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9447252584591,
+                    43.2592730727337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42945,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Тимирязева улица",
+                "house_number": "40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9068265044319,
+                    43.2255338733708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42975,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9326676664737,
+                    43.2582676765044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42980,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9414040970222,
+                    43.2520662813036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42981,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9232565562312,
+                    43.2405320771055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 42982,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9411735444045,
+                    43.2602227321252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43000,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9548623871142,
+                    43.2624014706413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43001,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9494349009149,
+                    43.2630312654628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43004,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8783349978916,
+                    43.2499158001527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43011,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Райымбека проспект",
+                "house_number": "92а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9496535957708,
+                    43.2711803818387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43021,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Айтеке би улица",
+                "house_number": "95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9328150800119,
+                    43.2579884686636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43023,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9508567992624,
+                    43.2473712389521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43027,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Жамбыла улица",
+                "house_number": "63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9407875832427,
+                    43.2479271181562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43029,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Шевченко улица",
+                "house_number": "92"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9359938135605,
+                    43.2452968334518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43030,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Чайковского улица",
+                "house_number": "133а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9387689789677,
+                    43.2463336839178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43033,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Сейфуллина проспект",
+                "house_number": "498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9336356910239,
+                    43.2515862611424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43035,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Аль-Фараби проспект",
+                "house_number": "13 к2в"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9452983836103,
+                    43.2319491378238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43040,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Аль-Фараби проспект",
+                "house_number": "19 к2Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9456405968178,
+                    43.229346627131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43041,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Аль-Фараби проспект",
+                "house_number": "5 к1а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9469725738054,
+                    43.2292313199846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43054,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9508861292564,
+                    43.2459065606795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43083,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9392353842632,
+                    43.2694073559603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43086,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9382017377816,
+                    43.2728477938497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43095,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "112а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9398894925374,
+                    43.2559194304961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43104,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Тулебаева улица",
+                "house_number": "65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9473314507614,
+                    43.2582245538614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43105,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9361882988195,
+                    43.2571520586224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43106,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Северное Кольцо шоссе",
+                "house_number": "3/2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8885828439056,
+                    43.2786843941747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43108,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Северное Кольцо шоссе",
+                "house_number": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.888716108978,
+                    43.2801844613088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43119,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Калдаякова улица",
+                "house_number": "38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9586384823605,
+                    43.2585968927089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43132,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "104Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.904946195795,
+                    43.2347549121233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43144,
+                "organization": "Платежный терминал, Kaspi bank, АО",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9390170038177,
+                    43.2738134527565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43149,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9458134775943,
+                    43.257649604234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43151,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9431601237396,
+                    43.25263048923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43152,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Наурызбай батыра улица",
+                "house_number": "65/69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.935431019035,
+                    43.2549863481206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43174,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Айтеке би улица",
+                "house_number": "99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9305226243226,
+                    43.2575861933305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43175,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9318535233317,
+                    43.258461360347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43177,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9054989741051,
+                    43.2324914243054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43214,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Северное Кольцо шоссе",
+                "house_number": "8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8934432685818,
+                    43.2937262702376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43233,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Аль-Фараби проспект",
+                "house_number": "7 к5а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9469732924576,
+                    43.2304396233935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43246,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9561986760151,
+                    43.2459947016372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43251,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "80"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9379800335694,
+                    43.2592561075948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43263,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Желтоксан улица",
+                "house_number": "81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9386412834501,
+                    43.2584186186439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43271,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9471679124639,
+                    43.2670676171251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43292,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Бекхожина улица",
+                "house_number": "1а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.959938542206,
+                    43.2466115731084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43309,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Райымбека проспект",
+                "house_number": "101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9462918753988,
+                    43.2709115262903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43343,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9575824857946,
+                    43.2421493984595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43344,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абая проспект",
+                "house_number": "8г/7а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9513731329214,
+                    43.2396856858855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43345,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9449038884533,
+                    43.2575404899036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43361,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Есенова улица",
+                "house_number": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9547849523368,
+                    43.2650721400506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43391,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Панфилова улица",
+                "house_number": "1а"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9413083366129,
+                    43.2729290230594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43396,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Самал 2-й микрорайон",
+                "house_number": "58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9512036837093,
+                    43.2292089732057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43397,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Назарбаева проспект",
+                "house_number": "240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9503334407778,
+                    43.2299535132536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43402,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9444267482902,
+                    43.2615144907595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43404,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Достык проспект",
+                "house_number": "36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9561170640716,
+                    43.2532640825598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43408,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Валиханова улица",
+                "house_number": "122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9540835926787,
+                    43.2449707166979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43411,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Туркебаева улица",
+                "house_number": "93Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.878479312242,
+                    43.2493590199123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43429,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9416344699768,
+                    43.2623422860954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43430,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Брусиловского улица",
+                "house_number": "159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8762037897958,
+                    43.2451516900423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43452,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Толе би улица",
+                "house_number": "229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8800312417269,
+                    43.2508761915023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43455,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Зенкова улица",
+                "house_number": "54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9578211232498,
+                    43.2529505107005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43480,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Абылай хана проспект",
+                "house_number": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9403470494273,
+                    43.2721291715054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43481,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кунаева улица",
+                "house_number": "75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9493456982072,
+                    43.258971159517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43484,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кабанбай батыра улица",
+                "house_number": "134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9352130428313,
+                    43.2481138481891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43491,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Ауэзова улица",
+                "house_number": "145Б"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9043038554511,
+                    43.2349264645368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43499,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Кабанбай батыра улица",
+                "house_number": "85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9443912199207,
+                    43.2505763179047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43510,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Богенбай батыра улица",
+                "house_number": "152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9337002349771,
+                    43.2521060070299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43538,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "86"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.936756438321,
+                    43.2588881257318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43546,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Гоголя улица",
+                "house_number": "127/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.933692239971,
+                    43.260321330504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "terminal_id": 43553,
+                "organization": "КАССА 24, сеть терминалов оплаты",
+                "city": "Алматы г.",
+                "street": "Жибек Жолы проспект",
+                "house_number": "81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9430984094795,
+                    43.2621623423987
+                ]
+            }
+        }
+    ]
+}

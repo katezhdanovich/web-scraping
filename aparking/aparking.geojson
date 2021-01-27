@@ -1,0 +1,2470 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 186,
+                "adress": "Гоголя 73",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95106400013209,
+                    43.26026591594974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 188,
+                "adress": "Жибек жолы 53",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95634980724543,
+                    43.262867207934065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 189,
+                "adress": "Жибек жолы 50",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95606154394662,
+                    43.26230202816556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 190,
+                "adress": "Зенкова 13",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95634588956722,
+                    43.2605178899837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 192,
+                "adress": "Валиханова 58",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95119322390016,
+                    43.26777416887327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 193,
+                "adress": "пр.Достык 2",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95459038376687,
+                    43.261991027688524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 195,
+                "adress": "ул. Гоголя 50",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.947705670997,
+                    43.259934999499336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 196,
+                "adress": "Пушкина 34",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95262834787366,
+                    43.26468531498057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 199,
+                "adress": "ул. Пушкина 41",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95254473018129,
+                    43.263390663934594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 200,
+                "adress": "ул. Пушкина 38",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95301506057388,
+                    43.26186036631942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 201,
+                "adress": "Тулебаева 65А",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94761182937985,
+                    43.263206286155054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 205,
+                "adress": "ул. Тулебаева 62",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94754958510018,
+                    43.26112263876827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 207,
+                "adress": "Валиханова 13",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95087954759455,
+                    43.264469699433256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 218,
+                "adress": "Жибек жолы 59",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95228864413492,
+                    43.26255336239948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 220,
+                "adress": "Жибек жолы 63",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9503296947479,
+                    43.26242129678068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 221,
+                "adress": "Айтеке би 55",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94781787869056,
+                    43.258496006151766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 223,
+                "adress": "Кунаева 32",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94894835710521,
+                    43.26609072777552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 225,
+                "adress": "Тулебаева 38",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94717809915518,
+                    43.26451870234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 226,
+                "adress": "Кунаева 43",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94897517919377,
+                    43.263220085481514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 236,
+                "adress": "Зенкова 2А",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9560908754458,
+                    43.26419361959923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 237,
+                "adress": "Жибек жолы 51",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95442913374428,
+                    43.262710390703866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 238,
+                "adress": "ул. Пушкина 36",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95275977611539,
+                    43.26369150964095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 239,
+                "adress": "Макатаева 40А",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95405058637921,
+                    43.26446906411906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 257,
+                "adress": "пр. Назарбаева 100",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94800379236493,
+                    43.25680011729904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 282,
+                "adress": "Кунаева 18",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94853477635976,
+                    43.269246693321804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 331,
+                "adress": "ул Кунаева 21",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94857700324141,
+                    43.26708624367149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 335,
+                "adress": "Есенова 8Б",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95419650422764,
+                    43.266166626287045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 337,
+                "adress": "Уалиханова 46",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94704398870466,
+                    43.267290301131084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 229,
+                "adress": "Панфилова 64",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94415813416379,
+                    43.26303452469218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 235,
+                "adress": "Панфилова 109",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94410500098971,
+                    43.26091807669853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 241,
+                "adress": "Байсеитова 89а",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94234969551225,
+                    43.26078244231526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 243,
+                "adress": "Жибек жолы 103",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94031051190031,
+                    43.26161407692984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 247,
+                "adress": "ул. Айтеке би 67",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94161794121682,
+                    43.25788881851866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 250,
+                "adress": "Абылай хана 91",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94144097437203,
+                    43.256492480377574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 254,
+                "adress": "ул. Макатаева 73",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94353218043146,
+                    43.26396896756871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 255,
+                "adress": "ул. Макатаева 81",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94154546022253,
+                    43.263803241942405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 260,
+                "adress": "ул. Макатаева 99",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93540320157842,
+                    43.26346413018971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 262,
+                "adress": "ул. Макатаева 128",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93337952714894,
+                    43.26325289468011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 263,
+                "adress": "Наурызбай батыра 68",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9361515457657,
+                    43.25694603548352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 264,
+                "adress": "Желтоксан 87",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93936751437454,
+                    43.25710286755723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 267,
+                "adress": "ул. Наурызбай батыра 60",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93602983331505,
+                    43.25876090479985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 269,
+                "adress": "Гоголя 80",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93764275478159,
+                    43.25927402649151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 270,
+                "adress": "ул. Гоголя 117",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93392619727454,
+                    43.2590155572313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 271,
+                "adress": "Наурызбай батыра 52",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93571767229591,
+                    43.2600731152422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 272,
+                "adress": "Желтоксан 71/73",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9388634323848,
+                    43.260926525138814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 273,
+                "adress": "пр. Абылай хана 38",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94022798109528,
+                    43.265951767338876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 276,
+                "adress": "ул. Наурызбай батыра 28",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93542152164851,
+                    43.26276617389277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 277,
+                "adress": "Желтоксан 59",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93861195641547,
+                    43.26303424178327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 279,
+                "adress": "Казыбек би 97",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93444028854368,
+                    43.25584634250334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 283,
+                "adress": "ул. Наурызбай батыра 88",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93641171216963,
+                    43.25487003608881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 284,
+                "adress": "Желтоксана 111",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9395817586317,
+                    43.25529961484763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 286,
+                "adress": "Казыбек би 50",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94466858917494,
+                    43.256513975371185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 290,
+                "adress": "Желтоксан 129/135",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9405449962616,
+                    43.24771781684814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 300,
+                "adress": "Айтеке би 65",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94430545330043,
+                    43.258245872004395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 304,
+                "adress": "Гоголя 58",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9434387205369,
+                    43.25968932259652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 334,
+                "adress": "ул. Казыбек би",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94030336129539,
+                    43.25624249095975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 338,
+                "adress": "-",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94350572498585,
+                    43.267214125521434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 369,
+                "adress": "ул. Абылай хана 60",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94059327602383,
+                    43.26271532990951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 389,
+                "adress": "Желтоксан 77/79",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93914189539997,
+                    43.25862702638872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 242,
+                "adress": "Наурызбай батыра 110",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93708762884137,
+                    43.249821613882894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 244,
+                "adress": "Наурызбай батыра 118",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93731771329007,
+                    43.24776580558478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 289,
+                "adress": "Желтоксан 137",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94070237123356,
+                    43.246533110318985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 297,
+                "adress": "Желтоксан 125",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9403403044649,
+                    43.249551211995964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 298,
+                "adress": "Желтоксан 121",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94003537654872,
+                    43.25176849225637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 299,
+                "adress": "Наурызбай батыра 106",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93683818340301,
+                    43.25162537040164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 301,
+                "adress": "Наурызбай батыра 122",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93738803625105,
+                    43.24665510683609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 317,
+                "adress": "Богенбай батыра 148",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93543807029721,
+                    43.252270396357844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 319,
+                "adress": "Желтоксан 155",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94085881471631,
+                    43.245096300989545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 320,
+                "adress": "Желтоксан 165",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94109347308957,
+                    43.242912357047295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 321,
+                "adress": "Наурызбай батыра 130",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93775766968157,
+                    43.244776771956765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 322,
+                "adress": "Наурызбай батыра 146",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9378904393261,
+                    43.24279768364884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 347,
+                "adress": "Кабанбай батыра 83",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94472387790675,
+                    43.24952751804519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 348,
+                "adress": "Кабанбай батыра 93",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93886861562724,
+                    43.249068725682626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 370,
+                "adress": "ул. Курмангазы",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93672812896125,
+                    43.24398667197892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 371,
+                "adress": "ул. Курмангазы",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93826975728513,
+                    43.244111865980386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 372,
+                "adress": "ул. Курмангазы",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.943127426575,
+                    43.24429433701156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 373,
+                "adress": "ул. Курмангазы",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94689056582511,
+                    43.24469041664892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 376,
+                "adress": "ул. Курмангазы",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94188471063899,
+                    43.24434377795419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 377,
+                "adress": "ул. Шевченко",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94229668041775,
+                    43.2461349832039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 378,
+                "adress": "ул. Шевченко",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94031177766244,
+                    43.24598894482929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 379,
+                "adress": "ул. Шевченко",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93565472562707,
+                    43.24567983340552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 380,
+                "adress": "ул. Шевченко",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94723120637002,
+                    43.24648060100871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 382,
+                "adress": "ул. Абылай хана ",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94222918411725,
+                    43.25059736750226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 383,
+                "adress": "ул. Абылай хана",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93925431675973,
+                    43.27104763417484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 387,
+                "adress": "ул. Шевченко 77",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93785984631435,
+                    43.24584680662113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 198,
+                "adress": "Шевченко 41",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94871372322086,
+                    43.246586733808606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 309,
+                "adress": "Курмангазы 15",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95580140113829,
+                    43.24529630096729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 311,
+                "adress": "Достык 52",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95862576723098,
+                    43.24474139744029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 327,
+                "adress": "Богенбай батыра 89",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9539882278418,
+                    43.25384862510086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 349,
+                "adress": "Кабанбай батыра 55",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95777550697322,
+                    43.250643114012455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 350,
+                "adress": "Кабанбай батыра 69",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9527651405334,
+                    43.25007453515947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 351,
+                "adress": "Кабанбай батыра 79",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94931708378576,
+                    43.24983945445491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 364,
+                "adress": "по ул. Пушкина",
+                "workTime": "c 8:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9542456577517,
+                    43.25222846486773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 367,
+                "adress": "по ул. Пушкина",
+                "workTime": "c 8:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95486812598386,
+                    43.24701147480975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 374,
+                "adress": "ул. Курмангазы",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9503678511149,
+                    43.24494475900453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 375,
+                "adress": "ул. Курмангазы",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95390454239899,
+                    43.245198262204994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 381,
+                "adress": "ул. Шевченко",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9571714729792,
+                    43.24726293219143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 384,
+                "adress": "ул. Зенкова",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95769418594077,
+                    43.24995231675001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 386,
+                "adress": "ул. Зенкова",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95724085287304,
+                    43.25316048166826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 212,
+                "adress": "Площадь Республики 15",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94358588976658,
+                    43.238489780200844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 214,
+                "adress": "Площадь Республики 13",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94720115973905,
+                    43.23871874312537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 216,
+                "adress": "пр. Аль-Фараби 19",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.947957035428,
+                    43.23053005070811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 217,
+                "adress": "Площадь Республики 13",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94706883245229,
+                    43.2380725563189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 219,
+                "adress": "Назарбаева 220/3",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94987371921535,
+                    43.23907834531174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 354,
+                "adress": "Площадь Республики 4",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94546529993491,
+                    43.23695484537806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 362,
+                "adress": "по ул. Сатпаева",
+                "workTime": "с 8:00 до 19:00",
+                "price": "100 тгчас",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9520672292239,
+                    43.23881753408903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 363,
+                "adress": "по ул. Сатпаева",
+                "workTime": " с 8:00 до 19:00",
+                "price": "100 тгчас",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95514908738065,
+                    43.23904108831487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 388,
+                "adress": "пр. Достык",
+                "workTime": "с 08:00 до 19:00",
+                "price": "100 тг/час",
+                "number_zone": "1007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95738939832827,
+                    43.240852016136266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 294,
+                "adress": "Курмангазы 107",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.92866289494381,
+                    43.24344130289972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 246,
+                "adress": "ул. Туркебаева 92",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87888101100917,
+                    43.24953732126282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 259,
+                "adress": "ул. Брусиловского 86",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87677815914151,
+                    43.24909617489622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 307,
+                "adress": "ул. Брусиловского 94",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8770142966677,
+                    43.24763534522477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 308,
+                "adress": "ул. Туркебаева 109",
+                "workTime": "08:00-19:00",
+                "price": "100 тенге/час",
+                "number_zone": "1009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.87828556060708,
+                    43.248958930118846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 358,
+                "adress": "пр. Райымбека",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88625427378368,
+                    43.25844231354994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 359,
+                "adress": "ул. Розыбакиева",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88770501867256,
+                    43.25440673178071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 339,
+                "adress": "Ауэзова 138",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9059372486129,
+                    43.22653590751273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 340,
+                "adress": "Ауэзова 179",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90546683129607,
+                    43.22735213455227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 341,
+                "adress": "Ауэзова 169",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90523466590518,
+                    43.22896066560328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 342,
+                "adress": "Ауэзова 124",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90554753303525,
+                    43.22952564594015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 344,
+                "adress": "Ауэзова 161",
+                "workTime": "08:00-19:00",
+                "price": "100 тг/ч",
+                "number_zone": "1011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90475359916682,
+                    43.23242044372243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 355,
+                "adress": "Молдагалиева, 2/1",
+                "workTime": "с 8:00 до 19:00",
+                "price": "100 тгчас",
+                "number_zone": "1012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95390172531611,
+                    43.330116256128115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 356,
+                "adress": "Станкевича, 2",
+                "workTime": "с 8:00 до 19:00",
+                "price": "100 тгчас",
+                "number_zone": "1012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.95535779922065,
+                    43.33275368556601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 183,
+                "adress": "Северное кольцо 3",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88819078545652,
+                    43.28119938435872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 184,
+                "adress": "Северное кольцо 3",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8880307513892,
+                    43.28035266195846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 185,
+                "adress": "Северное кольцо 3",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88790348940816,
+                    43.2795184246152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 345,
+                "adress": "ТЦ Адем",
+                "workTime": "круглосуточно",
+                "price": "300 тенге/3 часа",
+                "number_zone": "9001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88831011275853,
+                    43.28184449858578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 346,
+                "adress": "ТЦ Адем",
+                "workTime": "круглосуточно",
+                "price": "300 тг/ 3 часа",
+                "number_zone": "9001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8878215730555,
+                    43.27870637673835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 179,
+                "adress": "Северное кольцо 9",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/3 часа",
+                "number_zone": "9002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88951951709912,
+                    43.286768776104296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 180,
+                "adress": "Северное кольцо 9",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/3 часа",
+                "number_zone": "9002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8895079231243,
+                    43.286699214012735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 182,
+                "adress": "Северное кольцо 9",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/3 часа",
+                "number_zone": "9002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.88949226244016,
+                    43.28662524577178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 172,
+                "adress": "Северное кольцо 23/5",
+                "workTime": "Круглосуточно",
+                "price": "200 тенге/день",
+                "number_zone": "9003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89335217278007,
+                    43.29531284387039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 173,
+                "adress": "Северное кольцо 23/5",
+                "workTime": "Круглосуточно",
+                "price": "200 тенге/день",
+                "number_zone": "9003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89316187610878,
+                    43.29490389467642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 211,
+                "adress": "пр. Аль-Фараби 5",
+                "workTime": "Круглосуточно",
+                "price": "100 тенге/час",
+                "number_zone": "9004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.94761161327567,
+                    43.22858324668708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 174,
+                "adress": "Северное кольцо 12",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89115716614228,
+                    43.293122996445184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 175,
+                "adress": "Северное кольцо 12",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/3 часа",
+                "number_zone": "9005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89088349824509,
+                    43.2925321152376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 176,
+                "adress": "Северное кольцо 23",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89220660365108,
+                    43.2928537310347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 177,
+                "adress": "Северное кольцо 23",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/3 часа",
+                "number_zone": "9006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8917664226258,
+                    43.29181014230239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 178,
+                "adress": "Северное кольцо 23",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/3 часа",
+                "number_zone": "9006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89103678226468,
+                    43.29020373529556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 167,
+                "adress": "Северное кольцо 14",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89276505078416,
+                    43.29692450474749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 168,
+                "adress": "Северное кольцо 14",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8918506723294,
+                    43.29592171711366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 169,
+                "adress": "Северное кольцо 14",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89128799870433,
+                    43.294485467524005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 315,
+                "adress": "Северное кольцо 92/7",
+                "workTime": "Круглосуточно",
+                "price": "200 тенге/день",
+                "number_zone": "9010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9024013018608,
+                    43.31708971717372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 316,
+                "adress": "Северное кольцо 92/7",
+                "workTime": "08:00-19:00",
+                "price": "200 тенге/день",
+                "number_zone": "9010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90172500274252,
+                    43.316219519003944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 148,
+                "adress": "ТЦ Акбулак",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89325115644833,
+                    43.29917074867677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 149,
+                "adress": "ТЦ Акбулак",
+                "workTime": "Круглосуточно",
+                "price": "300 тенге/день",
+                "number_zone": "9011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.89273599957068,
+                    43.29787935986952
+                ]
+            }
+        }
+    ]
+}
