@@ -1,0 +1,1145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1",
+                "address": "Пятницкая, 53",
+                "timework": "пн.-чт.: 11:00-00:00, пт.: 11:00-02:00, сб.: 11:00-02:00, вс.: 11:00-00:00",
+                "metro": "Новокузнецкая, Третьяковская, Павелецкая, Полянка",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 120,
+                "share": "https://www.tanuki.ru/restaurants/1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.628007927509,
+                    55.734692763262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2",
+                "address": "Волгоградский проспект, 98",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Кузьминки, Волжская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 252,
+                "share": "https://www.tanuki.ru/restaurants/2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.773066830689,
+                    55.703925490745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3",
+                "address": "Владимирская 3-я, 29",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Перово, Новогиреево, Шоссе энтузиастов",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 198,
+                "share": "https://www.tanuki.ru/restaurants/3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7914984,
+                    55.753383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4",
+                "address": "Дмитровское шоссе, 64 корп.3",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Верхние Лихоборы",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 204,
+                "share": "https://www.tanuki.ru/restaurants/4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5625807,
+                    55.8566783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5",
+                "address": "Генерала Белова, 15",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Домодедовская, Орехово, Шипиловская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 306,
+                "share": "https://www.tanuki.ru/restaurants/5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7178197,
+                    55.6211839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "8",
+                "address": "Алтуфьевское шоссе, 14",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Владыкино, Бибирево, Отрадное",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 217,
+                "share": "https://www.tanuki.ru/restaurants/8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.585923671722,
+                    55.855744705401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "9",
+                "address": "Балаклавский проспект, 48",
+                "timework": "пн.-чт.: 11:00-00:00, пт.: 11:00-02:00, сб.: 11:00-02:00, вс.: 11:00-00:00",
+                "metro": "Чертановская, Каховская, Калужская, Севастопольская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 186,
+                "share": "https://www.tanuki.ru/restaurants/9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.571740150452,
+                    55.64863315629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "10",
+                "address": "Боровское шоссе, 31",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Новопеределкино",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 176,
+                "share": "https://www.tanuki.ru/restaurants/10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.361454963684,
+                    55.642409229841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "11",
+                "address": "Варшавское шоссе, 86",
+                "timework": "пн.-чт.: -, пт.: 11:00-02:00, сб.: 11:00-02:00, вс.: 11:00-00:00",
+                "metro": "Варшавская, Каховская, Севастопольская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 135,
+                "share": "https://www.tanuki.ru/restaurants/11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6188786,
+                    55.6502863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "13",
+                "address": "Волгоградский проспект, 17",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Волгоградский пр-т, Печатники, Пролетарская, Текстильщики",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 150,
+                "share": "https://www.tanuki.ru/restaurants/13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.678567669312,
+                    55.72876526612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "15",
+                "address": "Каширское шоссе, 46",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Каширская, Кантемировская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 198,
+                "share": "https://www.tanuki.ru/restaurants/15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.664749326459,
+                    55.64796692367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16",
+                "address": "Коштоянца, 1",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "Пр-т Вернадского, Университет",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 256,
+                "share": "https://www.tanuki.ru/restaurants/16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.492597184656,
+                    55.679369211718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "18",
+                "address": "Липецкая ул., 2 корп. 8",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Царицыно, Орехово",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 230,
+                "share": "https://www.tanuki.ru/restaurants/18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.665104586755,
+                    55.608214790244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "19",
+                "address": "Митинская, 50",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Волоколамская, Митино, Пятницкое шоссе",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 170,
+                "share": "https://www.tanuki.ru/restaurants/19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3553441,
+                    55.8518132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "20",
+                "address": "Можайское шоссе, 11",
+                "timework": "пн.-чт.: 12:00-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-02:00",
+                "metro": "Кунцевская, Молодежная, Славянский б-р",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 250,
+                "share": "https://www.tanuki.ru/restaurants/20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4359026,
+                    55.7208255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "23",
+                "address": "Народного Ополчения, 22",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Октябрьское поле, Полежаевская, Сокол, Щукинская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 192,
+                "share": "https://www.tanuki.ru/restaurants/23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.479968199445,
+                    55.779051217264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "24",
+                "address": "Новокосинская, 36",
+                "timework": "пн.-чт.: 11:30-05:00, пт.: 11:30-05:00, сб.: 11:30-05:00, вс.: 11:30-05:00",
+                "metro": "Выхино, Новогиреево, Новокосино",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 370,
+                "share": "https://www.tanuki.ru/restaurants/24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.868966428836,
+                    55.742398298549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "25",
+                "address": "Паустовского, 8",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Новоясеневская, Ясенево",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 204,
+                "share": "https://www.tanuki.ru/restaurants/25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.538317923834,
+                    55.598973937225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "26",
+                "address": "Перерва, 58",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Братиславская, Люблино, Марьино",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 224,
+                "share": "https://www.tanuki.ru/restaurants/26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7603312,
+                    55.662725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "27",
+                "address": "Петрозаводская, 11 корп.1",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:00-02:00, сб.: 11:00-02:00, вс.: 11:00-00:00",
+                "metro": "Водный стадион, Речной вокзал",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 168,
+                "share": "https://www.tanuki.ru/restaurants/27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.494170704755,
+                    55.865980518896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "28",
+                "address": "Преображенская, 5/7",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Красносельская, Преображенская площадь, Сокольники, Электрозаводская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 237,
+                "share": "https://www.tanuki.ru/restaurants/28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.705481592837,
+                    55.7956039454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "29",
+                "address": "Привольная, 65",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "Выхино, Жулебино, Лермонтовский проспект",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 250,
+                "share": "https://www.tanuki.ru/restaurants/29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.849141511115,
+                    55.681311844972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "30",
+                "address": "Проспект Мира, 120",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Алексеевская, ВДНХ",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 178,
+                "share": "https://www.tanuki.ru/restaurants/30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6393082,
+                    55.8117882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "31",
+                "address": "Профсоюзная, 126 корп.3",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Беляево, Теплый стан, Коньково",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 282,
+                "share": "https://www.tanuki.ru/restaurants/31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5168104,
+                    55.63022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "32",
+                "address": "Свободы, 48",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Планерная, Речной вокзал, Сходненская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 194,
+                "share": "https://www.tanuki.ru/restaurants/32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.45427019682,
+                    55.848914191698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "33",
+                "address": "Симоновский вал, 15",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "Дубровка, Крестьянская застава, Пролетарская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 154,
+                "share": "https://www.tanuki.ru/restaurants/33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6644814,
+                    55.7219355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "34",
+                "address": "Сущевский Вал, 31 корп.1",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Марьина роща, Менделеевская, Рижская, Савёловская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 208,
+                "share": "https://www.tanuki.ru/restaurants/34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.60448129577,
+                    55.793424769813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "35",
+                "address": "Шаболовка, 25",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "Октябрьская, Серпуховская, Шаболовская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 200,
+                "share": "https://www.tanuki.ru/restaurants/35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6110054,
+                    55.7223593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "36",
+                "address": "Шокальского пр-д, 67 корп.2",
+                "timework": "пн.-чт.: 12:00-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Бабушкинская, Медведково, Свиблово",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 188,
+                "share": "https://www.tanuki.ru/restaurants/36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.672279,
+                    55.8862083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "37",
+                "address": "Шоссе Энтузиастов, 50",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Авиамоторная, Перово, Шоссе энтузиастов",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 154,
+                "share": "https://www.tanuki.ru/restaurants/37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7587124,
+                    55.7591418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "38",
+                "address": "Щелковское шоссе, 33",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Измайловская, Первомайская, Щелковская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 204,
+                "share": "https://www.tanuki.ru/restaurants/38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7829919,
+                    55.810293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "39",
+                "address": "Щербаковская, 50/52",
+                "timework": "пн.-чт.: 12:00-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Партизанская, Семеновская, Электрозаводская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 168,
+                "share": "https://www.tanuki.ru/restaurants/39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.737135,
+                    55.7824211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "41",
+                "address": "Люберцы, Октябрьский пр-т, 411",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Котельники",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 191,
+                "share": "https://www.tanuki.ru/restaurants/41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.916655053101,
+                    55.659722085157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "42",
+                "address": "Мытищи, Мира, 26",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Медведково",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 199,
+                "share": "https://www.tanuki.ru/restaurants/42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.727776053967,
+                    55.91601976234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "55",
+                "address": "Большая Академическая, 65",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Коптево, Лихоборы",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 182,
+                "share": "https://www.tanuki.ru/restaurants/55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.547374,
+                    55.8403324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "56",
+                "address": "Мосфильмовская, 22",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Киевская, Ломоносовский проспект",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 234,
+                "share": "https://www.tanuki.ru/restaurants/56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5247475,
+                    55.721189285403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "57",
+                "address": "Химки, Ленинградская, 16",
+                "timework": "пн.-вс.: Круглосуточно",
+                "metro": "Планерная, Речной вокзал, Сходненская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 236,
+                "share": "https://www.tanuki.ru/restaurants/57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4379,
+                    55.8885641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "58",
+                "address": "Зеленоград, Каменка, 1805",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Планерная, Речной вокзал",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 188,
+                "share": "https://www.tanuki.ru/restaurants/58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.162719289688,
+                    55.978970858776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "59",
+                "address": "Космонавтов, 15",
+                "timework": "пн.-чт.: -, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-02:00",
+                "metro": "Алексеевская, ВДНХ",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 208,
+                "share": "https://www.tanuki.ru/restaurants/59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.660123895276,
+                    55.82166063795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "62",
+                "address": "Пришвина, 9",
+                "timework": "пн.-чт.: -, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Алтуфьево, Бибирево, Отрадное",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 194,
+                "share": "https://www.tanuki.ru/restaurants/62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5970267,
+                    55.8894042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "63",
+                "address": "Дмитровское шоссе, 108Б",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Селигерская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 180,
+                "share": "https://www.tanuki.ru/restaurants/63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.544089116394,
+                    55.886722260189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "65",
+                "address": "Южнобутовская, 74",
+                "timework": "пн.-чт.: 11:00-05:00, пт.: 11:00-05:00, сб.: 11:00-05:00, вс.: 11:00-05:00",
+                "metro": "Бр. Адмирала Ушакова, Бунинская аллея, Улица Горчакова",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 190,
+                "share": "https://www.tanuki.ru/restaurants/65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.520397,
+                    55.535343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "66",
+                "address": "Нахимовский проспект, 67",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Профсоюзная",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 184,
+                "share": "https://www.tanuki.ru/restaurants/66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.55683,
+                    55.68078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "73",
+                "address": "Реутов, Новая, 3",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Перово, Новогиреево, Новокосино",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 146,
+                "share": "https://www.tanuki.ru/restaurants/73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.851909,
+                    55.757505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "75",
+                "address": "Борисовские пруды, 10 ",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Марьино, Борисово, Шипиловская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 242,
+                "share": "https://www.tanuki.ru/restaurants/75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.739722,
+                    55.635434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "77",
+                "address": "Красногорск, Ильинское шоссе, 14 корп.1",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Волоколамская, Тушинская",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 177,
+                "share": "https://www.tanuki.ru/restaurants/77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.323488,
+                    55.804598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "79",
+                "address": "Рязанский проспект, 12",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "Кузьминки, Рязанский пр-т, Текстильщики",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 180,
+                "share": "https://www.tanuki.ru/restaurants/79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.761189,
+                    55.725272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "81",
+                "address": "Одинцово, Можайское шоссе, 122",
+                "timework": "пн.-чт.: -, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Юго-Западная, Молодежная",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 170,
+                "share": "https://www.tanuki.ru/restaurants/81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.3087073,
+                    55.6848153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "83",
+                "address": "Подольск, Кирова, 29",
+                "timework": "пн.-чт.: 11:00-00:00, пт.: 11:00-02:00, сб.: 11:00-02:00, вс.: 11:00-00:00",
+                "metro": "Аннино, Бр. Дмитрия Донского",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 176,
+                "share": "https://www.tanuki.ru/restaurants/83"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.529707,
+                    55.425526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "85",
+                "address": "Новокуркинское шоссе, 25",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Планерная, Речной вокзал",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 177,
+                "share": "https://www.tanuki.ru/restaurants/85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.398241,
+                    55.898628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "87",
+                "address": "Ярцевская, 19, «Кунцево плаза»",
+                "timework": "пн.-чт.: 10:00-00:00, пт.: 10:00-00:00, сб.: 10:00-00:00, вс.: 10:00-23:00",
+                "metro": "Кунцевская, Молодежная",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 150,
+                "share": "https://www.tanuki.ru/restaurants/87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4106785,
+                    55.7387004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "93",
+                "address": "Б. Златоустинский пер., 1, стр. 1",
+                "timework": "пн.-чт.: 11:00-00:00, пт.: 11:00-02:00, сб.: 11:00-02:00, вс.: 11:00-00:00",
+                "metro": "Лубянка, Китай-город, Чистые пруды",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 98,
+                "share": "https://www.tanuki.ru/restaurants/93"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6294591,
+                    55.7599682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "95",
+                "address": "Кутузовский проспект, 57, «Океания»",
+                "timework": "пн.-чт.: 10:00-00:00, пт.: 10:00-00:00, сб.: 10:00-00:00, вс.: 10:00-00:00",
+                "metro": "Пионерская, Славянский б-р, Филевский парк",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 95,
+                "share": "https://www.tanuki.ru/restaurants/95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.476685,
+                    55.728191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "97",
+                "address": "Ярославское шоссе, 10",
+                "timework": "пн.-чт.: 11:30-00:00, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Бабушкинская, Свиблово",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 122,
+                "share": "https://www.tanuki.ru/restaurants/97"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.681752,
+                    55.8533279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "101",
+                "address": "Осенний бульвар, 9",
+                "timework": "пн.-чт.: -, пт.: 11:00-00:00, сб.: 11:00-00:00, вс.: 11:00-00:00",
+                "metro": "Крылатское",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 0,
+                "share": "https://www.tanuki.ru/restaurants/101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4045264,
+                    55.7582604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "105",
+                "address": "Чертановская, 36, стр 1",
+                "timework": "пн.-чт.: -, пт.: 11:30-06:00, сб.: 11:30-06:00, вс.: 11:30-00:00",
+                "metro": "Пражская, Южная",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 195,
+                "share": "https://www.tanuki.ru/restaurants/105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.591809,
+                    55.615293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "107",
+                "address": "Долгопрудный, Лихачевский проспект, д. 74",
+                "timework": "пн.-чт.: -, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "Алтуфьево, Речной вокзал",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 144,
+                "share": "https://www.tanuki.ru/restaurants/107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.495249,
+                    55.935223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "127",
+                "address": "Королёв, проспект Королёва, 6Г",
+                "timework": "пн.-чт.: -, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "ВДНХ",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 0,
+                "share": "https://www.tanuki.ru/restaurants/127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.83801,
+                    55.920542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "129",
+                "address": "Цветной бульвар, 5",
+                "timework": "пн.-чт.: -, пт.: 11:30-00:00, сб.: 11:30-00:00, вс.: 11:30-00:00",
+                "metro": "Цветной б-р",
+                "phone": "+7 (499) 649-2-223",
+                "sitPlaces": 170,
+                "share": "https://www.tanuki.ru/restaurants/129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.620698,
+                    55.768881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "133",
+                "address": "Балашиха, ул. Площадь Славы, 1",
+                "timework": "пн.-чт.: -, пт.: 11:30-02:00, сб.: 11:30-02:00, вс.: 11:30-00:00",
+                "metro": "Новогиреево, Новокосино",
+                "phone": " +7 (495) 223-2-223",
+                "sitPlaces": 0,
+                "share": "https://www.tanuki.ru/restaurants/133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.937256,
+                    55.796511
+                ]
+            }
+        }
+    ]
+}
